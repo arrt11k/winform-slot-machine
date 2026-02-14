@@ -261,10 +261,6 @@ namespace SlotMachineAdminSystem
                     MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
-
-        // Optional: remove if not used in Designer
-        private void lblBalance_Click(object sender, EventArgs e)
-        {
-        }
     }
 }
+
